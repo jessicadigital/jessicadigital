@@ -1,6 +1,6 @@
 ### Jessica Muirhead
 
-Lecturer and Programme Leader at Wrexham Glyndŵr University.
+Director of Academic Practice at [CEG Digital](https://www.cegdigital.co.uk/).
 
 <!--
 **jessicadigital/jessicadigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
